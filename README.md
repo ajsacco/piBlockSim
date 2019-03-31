@@ -1,6 +1,6 @@
 # piBlockSim
 
-#### NOTE: For windows and linux versions, you must include the __libs__ folder in the same directory as the executable
+ NOTE: For windows and linux versions, you must include the __libs__ folder in the same directory as the executable
 
 ## To-do
 - Add a description
